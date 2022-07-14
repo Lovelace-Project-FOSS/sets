@@ -1,0 +1,10 @@
+# .gitignore for all sub-repos in the sets project
+
+# C-Language
+*.o
+*.ko
+*.obj
+*.elf
+*.exe
+*.bin
+*.lst
